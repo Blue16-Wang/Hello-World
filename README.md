@@ -1,2 +1,3 @@
 # Hello-World
-My Text Repository
+My Test Repository
+This is the second edition.
